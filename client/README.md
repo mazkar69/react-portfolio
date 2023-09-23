@@ -1,3 +1,5 @@
+#Add this form the vps to check whether git is connected successfully or not.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
